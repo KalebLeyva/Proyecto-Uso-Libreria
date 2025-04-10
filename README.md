@@ -83,3 +83,7 @@ Con esto ya estas listo para utilizar nuestra librería en tus proyectos, Gracia
 
 Para mejor explicación y mas detalles puedes mirar el siguiente video
 https://youtu.be/0JCzn5Vf_gg
+
+Por:
+KALEB DANIEL LEYVA SOLIS
+EDUARDO YAEL MENDOZA MARTINEZ
