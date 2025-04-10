@@ -1,5 +1,6 @@
 # Proyecto-Uso-Libreria
 DESCRIPCION Y USO PARA LA LIBRERIA JSonidos
+
 ¡Gracias por utilizar nuestra librería JSonidos!
 A continuación, te explicamos cómo integrarla y aprovechar sus funcionalidades para agregar sonidos a tus componentes JText.
 Una vez que hayas agregado el archivo .jar de JSonidos a tu proyecto, debes importar las siguientes clases:
