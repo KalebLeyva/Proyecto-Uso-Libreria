@@ -1,5 +1,4 @@
 # Proyecto-Uso-Libreria
-===========================================
 DESCRIPCION Y USO PARA LA LIBRERIA JSonidos
 ===========================================
 ¡Gracias por utilizar nuestra librería JSonidos!
