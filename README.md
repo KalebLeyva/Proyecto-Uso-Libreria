@@ -85,5 +85,5 @@ Para mejor explicación y mas detalles puedes mirar el siguiente video
 https://youtu.be/0JCzn5Vf_gg
 
 Por:
-KALEB DANIEL LEYVA SOLIS
+KALEB DANIEL LEYVA SOLIS,
 EDUARDO YAEL MENDOZA MARTINEZ
