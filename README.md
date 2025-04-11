@@ -38,9 +38,13 @@ SonidoTecla.configurarSonidoGeneral(txtPs4, "ps4");
 SonidoTecla.configurarSonidoGeneral(txtTip, "tip");
 SonidoTecla.configurarSonidoGeneral(txtWik, "wik");
 
+![img3](Imagenes/img3.png)
+
 No olvides llamar al método debajo de initComponents
 initComponents();
 configurarSonidos();
+
+![img4](Imagenes/4.png)
 Con esto tendrás disponible el sonido deseado listo para usarse y agregado.
 
 //Como Cargar y usar tus sonidos personalizados y también introducir un sonido para alguna tecla en especifico//
@@ -48,8 +52,11 @@ Con esto tendrás disponible el sonido deseado listo para usarse y agregado.
 Primero debes crear el método privado
 private void cargarSonidosPersonalizados() {
 
+![img5](Imagenes/5.png)
 En el cual debes utilizar el siguiente método
  SonidoTecla.agregarSonido
+
+ ![img6](Imagenes/6.png)
 Simplemente debes asignar un nombre y copiar la dirección de ruta del sonido deseado.
 Ten en mente que los archivos .wav deben:
 
@@ -67,6 +74,8 @@ Con esto tendrás tu sonido personalizado listo para usarse
 Asi que dentro de tu metodo configurarsonido puedes aplicarle el sonido a tu JText
 SonidoTecla.configurarSonidoGeneral(txtPersonal1, "golpe_personalizado");
 
+![img7](Imagenes/7.png)
+
 No olvides agregar el método abajo de initComponents
 initComponents();
          cargarSonidosPersonalizados();
@@ -77,6 +86,8 @@ Por ejemplo aquí asigne un sonido personalizado a un JText
 SonidoTecla.configurarSonidoGeneral(txtPersonal2, "bip_personalizado");
 Pero agregando este método dentro de configurarSonidos
  SonidoTecla.asignarSonidoATecla(txtPersonal2, KeyEvent.VK_SPACE, "golpe_personalizado");
+
+ ![img8](Imagenes/8.png)
 Con ayuda de la librería KeyEvent, pude asignarle un evento a la tecla enter, el cual
 cuando esta sea presionada, hará el sonido que se haya llamado, en este caso
 un sonido de golpe que importe desde mis sonidos propios
