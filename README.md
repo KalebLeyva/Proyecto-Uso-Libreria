@@ -11,12 +11,15 @@ import java.awt.event.KeyEvent;
 
 Debes crear un método privado 
 private void configurarSonidos()
+
 ![img1](Imagenes/1.png)
 
 En el cual utilizaras los métodos para utlizar los sonidos introducidos por nosotros a tus JTextField
 como por ejemplo:
 
 SonidoTecla.configurarSonidoGeneral(txtBurbujas, "bubble");
+
+![img2](Imagenes2.pgn)
 
 Dentro del método, usa SonidoTecla.configurarSonidoGeneral() para asignar sonidos.
 El primer parámetro es el JTextField al que deseas aplicar el sonido.
