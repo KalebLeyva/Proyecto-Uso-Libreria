@@ -11,6 +11,7 @@ import java.awt.event.KeyEvent;
 
 Debes crear un método privado 
 private void configurarSonidos()
+![img1](Imagenes/1.png)
 
 En el cual utilizaras los métodos para utlizar los sonidos introducidos por nosotros a tus JTextField
 como por ejemplo:
