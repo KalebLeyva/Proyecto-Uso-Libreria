@@ -19,7 +19,7 @@ como por ejemplo:
 
 SonidoTecla.configurarSonidoGeneral(txtBurbujas, "bubble");
 
-![img2](Imagenes2.pgn)
+![img2](Imagenes/2.png)
 
 Dentro del método, usa SonidoTecla.configurarSonidoGeneral() para asignar sonidos.
 El primer parámetro es el JTextField al que deseas aplicar el sonido.
